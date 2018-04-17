@@ -30,6 +30,7 @@ class ViewController: UIViewController,AVAudioRecorderDelegate {
                     } else {
                         self.loadFailUI()
                     }
+					//Here from android
                 }
             }
         } catch {
