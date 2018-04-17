@@ -30,7 +30,7 @@ class ViewController: UIViewController,AVAudioRecorderDelegate {
                     } else {
                         self.loadFailUI()
                     }
-					//Here from android
+					//Here from android... Tommarro is holliday
                 }
             }
         } catch {
